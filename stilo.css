@@ -1,0 +1,40 @@
+body{
+    width: 600px;
+    margin: auto;
+}
+input{
+    margin: 4px;
+    min-width: 90%;
+    border-radius: 5px;
+    height: 35px;
+
+}
+
+a{
+    margin-top: 5px;
+    padding: 5px;    background: hotpink;
+    text-decoration: none;    
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+div{
+    height: 20px;
+    padding: 5px 10px;
+    margin: 15px auto;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+button{
+    background: blue;
+}
+
+.fds{
+    size: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+
